@@ -1,0 +1,35 @@
+### Footprint positions - created on Sun Nov 26 12:32:36 2023 ###
+### Printed by KiCad version 7.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                                                            PosX       PosY       Rot  Side
+C1        10uF                    C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    136.9613   -89.7650  -90.0000  top
+C15       0.1uF                   C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    167.6500   -75.2250    0.0000  top
+C17       0.1uF                   C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    166.0012   -84.3475  -90.0000  top
+C18       1nF                     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    167.6612   -84.3575  -90.0000  top
+C19       33pF                    C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    169.3212   -84.3475   90.0000  top
+C27       10nF                    C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    166.7112   -94.1950  180.0000  top
+C30       1uF                     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    164.1213   -89.6950   90.0000  top
+C32       0.1uF                   C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    169.4212   -89.1350  -90.0000  top
+C33       1uF                     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    161.7712   -86.2750  180.0000  top
+C39       0.1uF                   C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                    161.2750   -75.9250   90.0000  top
+D3        LED                     LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder                  137.1100   -73.9175  -90.0000  top
+D4        LED                     LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder                  134.7900   -73.9250  -90.0000  top
+D5        LED                     LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder                  132.5600   -73.9250  -90.0000  top
+IC1       ESP32-S3-WROOM-1-N16R2  ESP32S3WROOM1N4                                                148.8113   -86.6550    0.0000  top
+J1        10118192-0002LF         AMPHENOL_10118192-0002LF                                       131.5662   -85.4000  -90.0000  top
+J2        Debug                   PinHeader_1x06_P2.54mm_Vertical                                161.4712   -71.3750   90.0000  top
+J4        Screw_Terminal_01x03    TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal   175.5913   -90.5550   90.0000  top
+L1        SRN60451R0Y             SRN60451R0Y                                                    134.3413   -95.7950  180.0000  top
+MIC1      IMP23ABSUTR             IMP23ABSUTR                                                    166.8287   -90.0034   90.0000  top
+R17       160E                    R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    164.1312   -93.2450   90.0000  top
+R20       0E                      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    160.2912   -93.2650   90.0000  top
+R24       10K                     R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    162.3912   -93.2875  -90.0000  top
+R25       470E                    R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    137.3113   -82.8175  -90.0000  top
+R26       470E                    R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    135.6213   -82.8075  -90.0000  top
+R27       470E                    R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    133.9112   -82.7975  -90.0000  top
+SW1       SW_SPST                 SW_SPST_B3U-1000P                                              174.4406   -76.0071  180.0000  top
+SW2       SW_SPST                 SW_SPST_B3U-1000P                                              174.4313   -79.4850  180.0000  top
+U4        IIS3DWBTR               IIS3DWBTR                                                      163.9887   -76.0250  180.0000  top
+U6        ISM330DLCTR             PQFN50P250X300X86-14N                                          168.5162   -79.9625  -90.0000  top
+## End
