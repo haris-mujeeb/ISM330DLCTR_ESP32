@@ -1,0 +1,39 @@
+# KiCad files
+*.kicad_pcb
+*.kicad_sch
+*.kicad_mod
+*.kicad_sym
+*.kicad_pro
+*.kicad_wks
+*.kicad_map
+*.kicad_top
+*.kicad_temp/
+*.step
+*.stl
+*.bak
+*.net
+*.pro
+
+# PlatformIO files
+.pio/
+build/
+lib_deps/
+.pioenvs/
+.platformio/
+*.d
+*.o
+*.elf
+*.hex
+*.bin
+
+# User-specific files
+*.user
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
